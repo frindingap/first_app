@@ -1,0 +1,1 @@
+This is the Rails Tut app testing
